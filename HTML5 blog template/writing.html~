@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Blog | Jack O'Malley-James</title>
+	<meta charset="utf-8">
+	<meta name="author" content="pixelhint.com">
+        <link rel="shortcut icon" href="/home/jack/Documents/Website/images/Earth.ico">
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+</head>
+<body>
+
+	<header>
+		<div class="wrapper">
+			<nav>
+				<ul class="main_nav">
+					<li class="current"><a href="#">Blog Home</a></li>
+					<li><a href="/home/jack/Documents/Website/index.html#first">Back to Main Site</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header><!-- Header End -->
+
+	<section class="main wrapper">
+		<article>
+			<div class="article_image">
+				<a href="/home/jack/Documents/Website/HTML5 blog template/post1.html">
+					<img src="/home/jack/Documents/Website/images/blog1.jpg" alt="" title="">
+				</a>
+			</div>
+			<div class="post">
+				<h1 class="title">
+					<a href="/home/jack/Documents/Website/HTML5 blog template/post1.html">Will we really find any signs of life beyond Earth?</a>
+				</h1>
+				
+				<p>Astrobiology is a science with little to no evidence. We know there is life here on Earth and, because Earth is in no way separate to the rest of the universe, we know that there is life in the universe. However, when it comes to looking for life beyond Earth we really have nothing much to go on...yet. By studying life on Earth we know increasingly more about where life could live and how it might get started...</p>
+
+				<a class="read_more" href="/home/jack/Documents/Website/HTML5 blog template/post1.html">Continue Reading <i class="read_more_arrow"></i> </a>
+			</div>
+		</article>
+
+		<article>
+			<div class="article_image">
+				<a href="/home/jack/Documents/Website/HTML5 blog template/post2.html">
+					<img src="/home/jack/Documents/Website/images/blog2a.jpg" alt="" title="">
+				</a>
+			</div>
+			<div class="post">
+				<h1 class="title">
+					<a href="/home/jack/Documents/Website/HTML5 blog template/post2.html">Are we still trying to answer the same questions as ancient astronomers?</a>
+				</h1>
+				
+				<p>Of all the sciences, astrobiology seems to capture the public imagination in a way that no other topic does. The quest to find other worlds like our own 
+and to find life on other planets is something that people from all walks of life get excited about. One of the things that interests me is the reason for this excitement. Why are people so interested
+ in this? Is it simply the attraction of mysterious unknown worlds beyond the sky, or is it something more than this?</p>
+
+
+				<a class="read_more" href="/home/jack/Documents/Website/HTML5 blog template/post2.html">Continue Reading <i class="read_more_arrow"></i> </a>
+			</div>
+		</article>
+
+		<article>
+			<div class="article_image">
+				<a href="#">
+					<img src="" alt="" title="">
+				</a>
+			</div>
+
+
+
+		</article>
+
+
+		<nav class="pagination">
+			<!a href="#" class="previous"> <!i><!/i><!/a>
+			<!a href="#" class="next"> <!i><!/i><!/a>
+		</nav><!-- Pagination End -->
+	</section><!-- Main End -->
+
+
+	<footer>
+		<div class="wrapper">
+			<!ul class="social_profiles">
+				<!li class="f"><a href="http://facebook.com/pixelhint" target="_blink"></a></li>
+				<!li class="t"><a href="http://twitter.com/pixelhint" target="_blink"></a></li>
+				<!li class="be"><a href="http://behance.net/pixelhint" target="_blink"></a></li>
+				<!li class="d"><a href="http://dribbble.com/pixelhint" target="_blink"></a></li>
+			<!/ul>
+		</div>
+	</footer><!-- Footer End -->
+
+</body>
+</html>

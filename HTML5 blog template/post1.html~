@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Blog | Jack O'Malley-James</title>
+	<meta charset="utf-8">
+	<meta name="author" content="pixelhint.com">
+        <link rel="shortcut icon" href="/home/jack/Documents/Website/images/Earth.ico">
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+<script type="text/javascript" 
+        src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript" 
+        src="/home/jack/Documents/Website/HTML5 blog template/easy-comment/jquery.easy-comment.min.js"></script>
+    <script type="text/javascript">
+    jQuery(document).ready(function(){
+    // Your other javascript code if any
+
+    $("#my-comment").EasyComment({
+      path:"/home/jack/Documents/Website/HTML5 blog template/easy-comment/", //Change it to the folder where you put the easycomment files
+      moderate:false,
+      maxReply:5
+    });
+    // Your other javascript code if any
+    });
+    </script>
+
+</head>
+<body>
+
+	<header>
+		<div class="wrapper">
+			<nav>
+				<ul class="main_nav">
+					<li class="current"><a href="/home/jack/Documents/Website/HTML5 blog template/writing.html">Blog Home</a></li>
+					<li><a href="/home/jack/Documents/Website/index.html#first">Back to Main Site</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header><!-- Header End -->
+
+	<section class="main wrapper">
+		<article>
+			<div class="article_image">
+					<img src="/home/jack/Documents/Website/images/blog1.jpg" alt="" title="">
+
+			</div>
+			<div class="post">
+				<h1 class="title">
+					Will we really find any signs of life beyond Earth?
+				</h1>
+				<p style="text-align:center">Astrobiology is a science with little to no evidence. We know there is life here on Earth and, because Earth is in no way separate to the rest of the universe,
+we know that there is life in the universe. However, when it comes to looking for life beyond Earth we really have nothing much to
+go on...yet. By studying life on Earth we know increasingly more about where life <i>could</i> live and how it might get started, but armed with this knowledge, what are our prospects of actually
+finding hard evidence of life elsewhere?</p>
+<br>
+</div>
+			<div class="postfull">
+<p  style="text-align:justify">Science requires a healthy dose of skepticism. By constantly questioning things and re-assessing what we think to be true when new evidence comes to light, science progresses in a stable, robust way.
+This makes scientists generally very skeptical people, yet also flexible in the face of new evidence. So why then would people with skepticism instilled within in them commit time, effort and resources to searching
+for something we have very little evidence for? You might imagine that astrobiologists are perhaps a less skeptical breed of scientist, but from my experience this is not true. At a conference in Stockholm
+in 2012, at the end of long day, in a floating bar on the Riddarfjärden, our skepticism towards the future success of our own field came to light. This ultimately culminated in a 20-year wager that we wouldn't
+even be seriously back on the Moon by the 2030s (shown below), let alone have evidence for extraterrestrial life.  </p>
+
+<a href="#openModal"><img style="float: right; margin: 0px 0px 0px 10px" src="/home/jack/Documents/Website/images/blog1a.jpg" alt="" width="380" height="550" alt="small image"></a>
+<div id="openModal" class="modalDialog">
+	<div>
+		<a href="#close" title="Close" class="close">X</a>
+		<h2>The Lunar Tourism Wager</h2>
+		<img src="/home/jack/Documents/Website/images/blog1a.jpg" alt=""/>
+	</div>
+</div>
+
+<p style="text-align:justify">In the August 2014 issue of the <a href="http://online.liebertpub.com/toc/ast/14/8"; style="color:grey">Astrobiology journal</a> the opinions of the editorial board on the future direction of astrobiology as a
+science were summarised in the article "<i>Where Do We Go from Here?</i>". One of the questions posed was about what they thought the likelihood of a postive detection of life beyond Earth would be. Unanimously, the answers can
+collectively be summarised as: zero, for life beyond the solar system". While we are now starting to find planets that are small enough to be described as Earth-like and at just the right distance from their stars to have surface temperatures that allow liquid
+water to exist on their surfaces, this is only a first step towards finding life. There are several planned or upcoming telescope missions that will be able to search for the signatures (collectively known as <i>biosignatures</i>) that life leaves behind, such as high levels of oxygen, ozone of methane, in the atmosphere of a planet. However, the successful detection of biosignatures does not mean a successful detection of life. It merely gives us some evidence from which to conclude that there <i>might</i> be life on a given planet. Other non-biological
+process, such as volcanic eruptions or chemical weathering, could also produce similar signatures. Therefore, despite the future successes of these biosignature-hunting missions, the extraterrestrial life debate will continue.</p>
+
+<p style="text-align:justify">On the other hand, the solar system, by being comfortably within the reach of telescopes
+and space probes (and potentially manned missions in the not-to-distant future) offers many opportunites to find life. These could come
+in the form of hardy microbes living under Europa's ice, beneath the Martian surface, or in a variety of other places, or perhaps in the form of fossilised Martian life. However, this may not help answer the question of whether we are alone in the universe. Life could possibly have been transferred from planet to
+planet in the early solar system as a result of collisions. Also, our solar system is only one example. Just because conditions were right here for life to develop, does not necessarily mean that this is the norm.</p>
+
+<p style="text-align:justify">The only way to really answer the question about life in the 
+universe is to look beyond the solar system. Yet, in the near future there is no hope of being able to visit these distant Earths and take a closer look. Future telescopes that are significantly more powerful than anything currently planned or in existence may help, but these won't come
+for decades yet. Surprisingly, the conlcusion of the article is that our best chance of making a positive detection of life beyond the solar system comes from a successful SETI detection; an artificial signal deliberately anouncing the presence of an intelligent civilisation.</p>
+
+<p style="text-align:justify">So why do we put the time and effort into searching when the best outcome still leaves us in an
+ambiguous position? Partly, it is because we are not just trying to find life, but also to understand these distant planetary systems as much as possible. Knowing something about a habitable planet's atmosphere may not tell us if anything is definitely living there, but it can tell us something
+about how atmospheres work and may even teach us something more about our own planet. This is probably one of the key hopes for astrobiology over the next few decades; not to look outward in search of life, but to look outward in search of answers to questions about how our own planet works, further our understanding
+of life on Earth and our place in the universe. The skepticism on clear display in the lunar tourism wager may well be reasonable, but it does not mean that this (still very young) field of research will not have a lot of answers to divulge.</p>			
+
+</div>
+
+<a href="#openModal">Open Modal</a>
+
+<div id="openModal" class="modalDialog">
+	<div>
+		<a href="#close" title="Close" class="close">X</a>
+		<h2>Modal Box</h2>
+		<img src="/home/jack/Documents/Website/images/blog1a.jpg" alt=""/>
+	</div>
+</div>
+                       </article>
+
+	</section><!-- Main End -->
+
+<section>
+
+<div id="form-main">
+  <div id="form-div">
+    <form class="form" id="form1">
+      
+      <p class="name">
+        <input name="name" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Name" id="name" />
+      </p>
+      
+      <p class="email">
+        <input name="email" type="text" class="validate[required,custom[email]] feedback-input" id="email" placeholder="Email" />
+      </p>
+      
+      <p class="text">
+        <textarea name="text" class="validate[required,length[6,300]] feedback-input" id="comment" placeholder="Comment"></textarea>
+      </p>
+      
+      
+      <div class="submit" >
+        <input type="submit" value="SEND" id="button-blue"/>
+        <div class="ease"></div>
+      </div>
+    </form>
+  </div>
+
+</section>
+
+
+<!/form><!-- HTML Comment Box code END-->
+        <!section><!div id="my-comment"><!/div><!/section>
+
+
+	<footer>
+		<div class="wrapper">
+			<ul class="social_profiles">
+				<li class="f"><a href="http://facebook.com/pixelhint" target="_blink"></a></li>
+				<li class="t"><a href="http://twitter.com/pixelhint" target="_blink"></a></li>
+				<li class="be"><a href="http://behance.net/pixelhint" target="_blink"></a></li>
+				<li class="d"><a href="http://dribbble.com/pixelhint" target="_blink"></a></li>
+			</ul>
+		</div>
+	</footer><!-- Footer End -->
+
+</body>
+</html>

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Blog | Jack O'Malley-James</title>
+	<meta charset="utf-8">
+	<meta name="author" content="pixelhint.com">
+        <link rel="shortcut icon" href="/home/jack/Documents/Website/images/Earth.ico">
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+<script type="text/javascript" 
+        src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript" 
+        src="/home/jack/Documents/Website/HTML5 blog template/easy-comment/jquery.easy-comment.min.js"></script>
+    <script type="text/javascript">
+    jQuery(document).ready(function(){
+    // Your other javascript code if any
+
+    $("#my-comment").EasyComment({
+      path:"/home/jack/Documents/Website/HTML5 blog template/easy-comment/", //Change it to the folder where you put the easycomment files
+      moderate:false,
+      maxReply:5
+    });
+    // Your other javascript code if any
+    });
+    </script>
+
+</head>
+<body>
+
+	<header>
+		<div class="wrapper">
+			<nav>
+				<ul class="main_nav">
+					<li class="current"><a href="/home/jack/Documents/Website/HTML5 blog template/writing.html">Blog Home</a></li>
+					<li><a href="/home/jack/Documents/Website/index.html#first">Back to Main Site</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header><!-- Header End -->
+
+	<section class="main wrapper">
+		<article>
+			<div class="article_image">
+					<img src="/home/jack/Documents/Website/images/blog2a.jpg" alt="" title="">
+
+			</div>
+			<div class="post">
+				<h1 class="title">
+					Are we still trying to answer the same questions as ancient astronomers?
+				</h1>
+<p style="text-align:center">Of all the sciences, astrobiology seems to capture the public imagination in a way 
+that no other topic does. The quest to find other worlds like our own and to find life on other planets is something that
+ people from all walks of life get excited about. One of the things that interests me is the reason for this 
+excitement. Why are people so interested in this? Is it simply the attraction of mysterious unknown worlds beyond 
+the sky, or is it something more?</p>
+</br>
+</br>
+</br>
+</div>
+<div class="postfull">
+<p style="text-align:justify">Certainly the night sky has fascinated mankind for perhaps as long as we have existed 
+and still continues to do so today. The Aboriginal Australians can give some insight into this fascination. Their 
+culture is the oldest still in existence in the world today. They are descended from the first wave of human migrants 
+to leave Africa 75,000 years ago and have an unbroken cultural history of nearly 50,000 years, which may even 
+share some cultural roots with the first human cultures to spring up in Africa. They are also possibly one of the first 
+human cultures to begin naming constellations and meticulously observing the night skies. Their myths and beliefs are 
+strongly connected to the night sky, which they use as a storytelling aid and calendar in much the same way as many (younger) 
+cultures elsewhere in the world do. Although they do not consider the night sky to be a physical destination, they do see 
+it as another world. The Yolngu people for example, believe that when they die they are taken to this spirit world in the sky, 
+in which the Milky Way is a great river and the stars the lights of the camp fires of their ancestors.</p>
+<a href="#openModal"><img style="float: right; margin: 0px 0px 0px 10px" src="/home/jack/Documents/Website/images/CartaMarinasmall.jpg" width="584" height="304"  alt="small image"></a>
+<div id="openModal" class="modalDialog2">
+	<div>
+		<a href="#close" title="Close" class="close">X</a>
+		<h2>Carta Marina</h2>
+		<img src="/home/jack/Documents/Website/images/CartaMarina.jpg" width="1470" height="734" alt=""/>
+	</div>
+</div>
+
+<p style="text-align:justify">This suggests that the concept of viewing the night sky as another world is an ancient one. 
+It was not until the discovery and acceptance of the fact that Earth orbits the Sun that this one, inaccessible world 
+turned into many suns with many worlds in people’s minds. But, perhaps, the motivation for thinking of the night sky as a window into
+worlds beyond our reach is the same. In a way, the sky still acts as a window to other worlds; it is only our interpretation and understanding of those worlds that has changed.
+Early thoughts of life on other worlds were very optimistic. The only evidence for the nature of the universe came from the world 
+people saw around them; a world filled with life. This led to the conclusion that, if the universe is like this here, it must be 
+like this elsewhere too; therefore, the universe must be filled with life. As humans, we are skilled at imagining the missing pieces
+ in the puzzle that makes up our worldview. Exotic lands beyond the borders of maps were imagined to be populated by mythical creatures,
+ such as the monstrous sea creatures that inhabit the North Sea in the 16th Century <i>Carta Marina</i> (pictured above) and the dog-headed cynocephali that 
+were thought to reside in far-eastern lands in the Middle Ages. This attitude towards the unknown also covered the planet Venus in 
+tropical jungles and Mars with seas. It was not until we began exploring the solar system that we found the other planets to be hostile,
+ uninviting worlds. However, even this reality-check has not put us off from looking even further afield for Earth-like worlds.</p>
+
+<p style="text-align:justify">An attraction toward distant lands may have been one of the drivers that led early humans to leave their ancestral homes, which
+ contributed to our success as a species, as we eventually colonised the whole planet. Maybe it was this same drive that made us look out into space and fill it with 
+ideas and stories of what might be there. Maybe this is what fires public imagination about the search for life beyond Earth today. 
+Perhaps it is simply a by-product of being an intelligent, problem-solving species. The human brain has been honed by millennia to search 
+for patterns in nature, helping us predict the migration of prey animals, the coming of seasonal change, the location of water sources etc. 
+Perhaps by taking away these immediate concerns for food and shelter, the brain seeks to use its pattern recognition abilities elsewhere, 
+driving us to gain a fuller understanding of the universe around us. Then again, perhaps it is, more simply, just a case of genetics. Answering the question of why we invest the time, energy and interest 
+into searching for worlds beyond Earth could very well represent a lifetime’s work. There are plenty of good logical reasons for this search, 
+such as gaining a better understanding of how our planet works and where life comes from, but these are unlikely to explain the fundamental 
+reason for wanting to look. Whatever the answer (or answers) may be, the motivation probably has ancient roots and even though we cannot fully explain
+it, we can all, to one extent or another, feel the pull of unknown lands.</p>			
+
+<p><b>Further reading:</b></p>
+<a href="http://aboriginalastronomy.blogspot.co.uk/"; style="color:grey">Aboriginal Indigenous Astronomy Blog</a>
+<br>
+<a href="http://astrogeo.oxfordjournals.org/content/47/5/5.27.full"; style="color:grey">A&G article: Astronomy in Aboriginal culture</a>
+<br>
+<a href="http://ngm.nationalgeographic.com/2013/01/125-restless-genes/dobbs-text"; style="color:grey">A National Geographic article about the human drive to explore: Restless Genes</a>
+</div>
+
+<a href="#openModal">Open Modal</a>
+
+<div id="openModal" class="modalDialog">
+	<div>
+		<a href="#close" title="Close" class="close">X</a>
+		<h2>Modal Box</h2>
+		<img src="/home/jack/Documents/Website/images/blog1a.jpg" alt=""/>
+	</div>
+</div>
+                       </article>
+
+	</section><!-- Main End -->
+
+<section>
+
+<div id="form-main">
+  <div id="form-div">
+    <form class="form" id="form1">
+      
+      <p class="name">
+        <input name="name" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Name" id="name" />
+      </p>
+      
+      <p class="email">
+        <input name="email" type="text" class="validate[required,custom[email]] feedback-input" id="email" placeholder="Email" />
+      </p>
+      
+      <p class="text">
+        <textarea name="text" class="validate[required,length[6,300]] feedback-input" id="comment" placeholder="Comment"></textarea>
+      </p>
+      
+      
+      <div class="submit" >
+        <input type="submit" value="SEND" id="button-blue"/>
+        <div class="ease"></div>
+      </div>
+    </form>
+  </div>
+
+</section>
+
+
+<!/form><!-- HTML Comment Box code END-->
+        <!section><!div id="my-comment"><!/div><!/section>
+
+
+	<footer>
+		<div class="wrapper">
+			<ul class="social_profiles">
+				<li class="f"><a href="http://facebook.com/pixelhint" target="_blink"></a></li>
+				<li class="t"><a href="http://twitter.com/pixelhint" target="_blink"></a></li>
+				<li class="be"><a href="http://behance.net/pixelhint" target="_blink"></a></li>
+				<li class="d"><a href="http://dribbble.com/pixelhint" target="_blink"></a></li>
+			</ul>
+		</div>
+	</footer><!-- Footer End -->
+
+</body>
+</html>
